@@ -30,34 +30,25 @@
   <a href="https://www.linkedin.com/in/gopichand-dandimeni-269709287/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/Gopicha31886938" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=whit&labelColor=&style=plastic" height="25" alt="twitter logo"  />
+  <a href="https://instagram.com/dgc.1015" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="25" alt="instagram logo"  />
   </a>
   <a href="https://discord.gg/https://discord.com/users/%7Bgopichand5568%7D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="25" alt="discord logo"  />
   </a>
-  <a href="https://instagram.com/dgc.1015" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="25" alt="instagram logo"  />
-  </a>
-  <a href="gc67766@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="25" alt="gmail logo"  />
-  </a>
   <a href="https://fb.com/gopichandg.cmar3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://www.youtube.com/c/dgc714" target="_blank">
+  <a href="https://www.youtube.com/channel/UCf3E154BQHd2Oo1OD4_y_jA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="25" alt="youtube logo"  />
-  </a>
-  <a href="t.me/dgcs101t" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="25" alt="telegram logo"  />
   </a>
   <a href="https://www.twitch.tv/dgc_gg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=plastic" height="25" alt="twitch logo"  />
   </a>
-  <a href="https://www.hackerrank.com/gc67766" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="25" alt="hackerrank logo"  />
+  <a href="https://x.com/Gopicha31886938" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=whit&labelColor=&style=plastic" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://github.com/Gooichand" target="_blank">
+  <a href="https://gooichand.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=plastic" height="25" alt="linktree logo"  />
   </a>
 </div>

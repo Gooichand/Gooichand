@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJjeGFrMG84dzV3Zm8wZmwxbWl4YXNkcTk5c3NpZjhzbmxvOXMwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2Xgk4Sxo6kzLj2Rcv/giphy.gif"  />
+<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU2YnhuaThxem54OW00MnFpcmVlZmV1ZGdxbWx3MnBubXhscHR1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXnygGeB6LPPi/giphy.gif"  />
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🧑🏻‍🎓 I’m currently studying at Sandip University<br><br>📖 I’m currently learning cybersecurity and Digital forensics<br><br>🎖️Best Delegation Asia youth model United Nations-vc<br><br>🎮Favourite game: Call of Duty Mobile<br><br>📫 How to reach me (WhatsApp): +91 9390606393<br><br>⚡ Fun fact is I like travelling in a car when a girl drives that car<br><br>💬 Ask me what you want to know</p>
+<p align="left">🧑🏻‍🎓 I’m currently studying at Sandip University<br><br>📖 I’m currently learning cyber/Digital forensics<br><br>🎖️Best Delegation Asia youth model United Nations-vc<br><br>🎮Favourite game: Call of Duty Mobile<br><br>📫 How to reach me (WhatsApp): +91 9390606393<br><br>⚡ Fun fact is I like travelling in a car when a girl drives that car<br><br>💬 Ask me what you want to know</p>
 
 ###
 
@@ -30,27 +30,7 @@
   <a href="https://www.linkedin.com/in/gopichand-dandimeni-269709287/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/dgc.1015" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/https://discord.com/users/%7Bgopichand5568%7D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://fb.com/gopichandg.cmar3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCf3E154BQHd2Oo1OD4_y_jA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/dgc_gg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=plastic" height="25" alt="twitch logo"  />
-  </a>
-  <a href="https://x.com/Gopicha31886938" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=whit&labelColor=&style=plastic" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://gooichand.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=plastic" height="25" alt="linktree logo"  />
-  </a>
+  
 </div>
 
 -ℹ️ My portfoil-DGC [https://[github.com/Gooichand](https://gooichand.github.io/)
@@ -148,10 +128,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/31vyu3z5yzlm6gsukegwzxwsumwu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vyu3z5yzlm6gsukegwzxwsumwu&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###

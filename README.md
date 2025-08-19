@@ -6,15 +6,19 @@
 
 ###
 
-<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU2YnhuaThxem54OW00MnFpcmVlZmV1ZGdxbWx3MnBubXhscHR1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXnygGeB6LPPi/giphy.gif"  />
-
 ###
 
 <h4 align="left">Introduction  👨‍💻</h4>
 
 ###
 
-<p align="left">🧑🏻‍🎓 I’m currently studying at Sandip University<br><br>📖 I’m currently learning cyber/Digital forensics<br><br>🎖️Best Delegation Asia youth model United Nations-vc<br><br>🎮Favourite game: Call of Duty Mobile<br><br>📫 How to reach me (WhatsApp): +91 9390606393<br><br>⚡ Fun fact is I like travelling in a car when a girl drives that car<br><br>💬 Ask me what you want to know</p>
+<p align="left"><br>🧑🏻‍🎓 Currently enrolled at Sandip University <br>
+<br>🧠 Diving deep into the world of cyber/digital forensics  <br>
+<br>🏅 Proud moment: Best Delegation @ Asia Youth MUN (VC)  <br>
+<br>🎮 Favorite escape: Call of Duty Mobile  <br>
+<br>📫 Reach out on 📧: dandimenigopichand6@gmail.com <br>
+<br>💫 Fun fact: I vibe best in a car when a girl’s got the car🛣️💃<br>
+</p>
 
 ###
 
@@ -34,23 +38,3 @@
 </div>
 
 -ℹ️ My portfoil-DGC [https://[github.com/Gooichand](https://gooichand.github.io/)
-
-
-
-
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Gooichand&theme=onedark&column=-1&row=1&margin-w=2&margin-h=2&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Gooichand&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Gooichand&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gooichand&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2&custom_title=contribution" height="100" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gooichand&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-
-
-###

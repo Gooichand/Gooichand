@@ -13,7 +13,7 @@
 **Building Secure Solutions | Analyzing Digital Evidence | Strengthening Security Posture**
 
 *🎓 Pursuing B.Tech in Cybersecurity & Digital Forensics at Sandip University*  
-*📍 Nashik, Maharashtra, India | 🏠 Kurnool, Andhra Pradesh, India*
+*📍 Nashik, Maharashtra, India | 🏠 Andhra Pradesh, India*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://gooichand.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopichand-d-269709287/)
@@ -30,22 +30,7 @@
 
 **🎯 Core Mission:** Apply forensic methodology expertise and analytical thinking to support digital investigations and strengthen organizational security posture.
 
----
 
-## 🛡️ Technical Skills Matrix
-
-### 🔍 **Digital Forensics Tools**
-```
-✅ FTK Imager  |  ✅ Autopsy  |  ✅ Volatility  |  ✅ Cellebrite PA
-✅ EnCase  |  ✅ Wireshark  |  ✅ SIFT Workstation  |  ✅ HxD Hex Editor
-```
-
-### 💻 **Operating Systems & File Systems**
-```
-🖥️ Windows (NTFS, Registry Analysis)
-🐧 Linux (EXT4, Bash Scripting)
-🍎 macOS  |  📱 Android  |  📱 iOS
-```
 
 ### 🐍 **Programming & Scripting Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -56,37 +41,13 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### 🌐 **Network & Security Analysis**
-```
+
 📡 Packet Analysis (TCP/IP)
 📊 Network Traffic Monitoring
 🔍 Log Analysis
 ⚠️ Intrusion Detection
-```
 
-### 🛠️ **Advanced Security Tools**
-```
-🔴 Kali Linux  |  💥 Metasploit  |  🔨 Burp Suite
-🔎 Nmap  |  🛡️ OWASP ZAP  |  📋 Nessus
-```
 
-### 📋 **Legal & Compliance**
-```
-⛓️ Chain of Custody  |  🗺️ MITRE ATT&CK Framework
-⚖️ Cyber Law  |  🔐 GDPR Compliance  |  🏛️ Digital Evidence Handling
-```
-
-### ☁️ **Cloud & Mobile Forensics**
-```
-🌩️ AWS Forensics  |  🌩️ Azure Forensics
-📱 Android Forensics  |  🍎 iOS Analysis
-💬 WhatsApp Recovery
-```
-
-### 🔐 **Cryptography & Blockchain**
-```
-🔗 Hash Functions  |  🔑 Encryption Breaking
-📜 Digital Certificates  |  ⛓️ Blockchain Analysis
-```
 
 ## 💪 Core Strengths
 
@@ -99,18 +60,6 @@
 | 📊 **Analytical Skills** | Data-driven security insights |
 
 ---
-
-## 🎮 Hobbies & Interests
-
-<div align="center">
-
-| 🏆 Competitions | 🎮 Gaming | 🌐 Web Development | 📸 Creative |
-|---|---|---|---|
-| 🎯 TryHackMe Challenges | Call of Duty Mobile | Full-Stack Apps | Photography |
-| 💻 Hackathons | Free Fire | Security Tools | Travelling |
-| 🚩 CTF Events | Hacker Games | UI/UX Design | Exploration |
-
-</div>
 
 ---
 
@@ -176,18 +125,6 @@
 ✅ Continuous Certification & Skill Development
 ```
 
-## 🚀 Current Focus
-
-```
-🔍 Advanced Digital Forensics
-🛡️ Web Application Security Testing
-⛓️ Blockchain Security Analysis
-🤖 AI/ML in Cybersecurity
-☁️ Cloud Security Assessment
-📱 Mobile Device Forensics
-🌐 Network Penetration Testing
-📊 Security Incident Response
-```
 
 ---
 

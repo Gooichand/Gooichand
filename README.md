@@ -59,22 +59,7 @@
 | 🎨 **Creativity** | Innovative solutions to security problems |
 | 📊 **Analytical Skills** | Data-driven security insights |
 
----
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gooichand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gooichand&layout=compact&theme=tokyonight&hide_border=true)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gooichand&theme=tokyo-night&hide_border=true)
-
-</div>
----
 
 ## 🤝 Open To Collaboration
 
@@ -87,23 +72,6 @@
 ✅ **Mentoring** - Guidance for Aspiring Security Professionals  
 ✅ **Speaking Engagements** - Security Awareness Sessions  
 
----
-
-## 📞 Contact & Connect
-
-<div align="center">
-
-| Platform | Link | Details |
-|---|---|---|
-| 🌐 **Portfolio** | [gooichand.github.io](https://gooichand.github.io/) | Projects & Blog |
-| 💼 **LinkedIn** | [@gopichand-d-269709287](https://www.linkedin.com/in/gopichand-d-269709287/) | Professional Network |
-| 📧 **Email** | [dandimenigopichand6@gmail.com](mailto:DGC2MHNE@proton.me) | Primary Contact |
-| 📱 **Phone** | +91 9390606393 | Available on Call |
-| 🐙 **GitHub** | [@gooichand](https://github.com/gooichand) | Code Repository |
-
-</div>
-
----
 
 ## 🌐 Languages Proficiency
 
@@ -126,18 +94,7 @@
 ```
 
 
----
 
-## 📋 Declaration
-
-> I hereby confirm that all the above information is true to the best of my knowledge and belief.
-
-**Signature:** Gopichand Dandimeni  
-**Date:** January 13, 2026
-
----
-
-<div align="center">
 
 ### 🌟 Thank You for Visiting My Profile! 🌟
 

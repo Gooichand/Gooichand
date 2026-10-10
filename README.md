@@ -2,7 +2,7 @@
 
 # 🔐 GOPICHAND DANDIMENI
 
-### Cybersecurity & Digital Forensics Specialist · Full-Stack Security Developer
+### Cybersecurity & Digital Forensics Learner · Full-Stack Security Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=760&height=70&lines=Investigating+digital+evidence;Building+secure+web+experiences;Learning+%7C+Competing+%7C+Contributing)](https://gooichand.github.io/)
 
